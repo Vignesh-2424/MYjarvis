@@ -1,0 +1,14 @@
+ollama pull nous-hermes2
+ollama run nous-hermes2
+cd C:\myjarvis
+ pip install pyttsx3
+pip install dateparser
+speechrecognition
+resemblyzer
+numpy
+librosa
+sounddevice
+scipy
+tensorflow
+spotipy
+python-dotenv

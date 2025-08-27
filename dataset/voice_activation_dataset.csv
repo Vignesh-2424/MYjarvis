@@ -1,0 +1,56 @@
+filename,description,label
+1.wav,hey jarvis,positive
+2.wav,hey jarvis,positive
+3.wav,hey jarvis,positive
+4.wav,hey jarvis,positive
+5.wav,hey jarvis,positive
+6.wav,hey jarvis,positive
+7.wav,hey jarvis,positive
+8.wav,hey jarvis,positive
+9.wav,hey jarvis,positive
+10.wav,hey jarvis,positive
+11.wav,hey jarvis,positive
+12.wav,hey jarvis,positive
+13.wav,hey jarvis,positive
+14.wav,hey jarvis,positive
+15.wav,hey jarvis,positive
+16.wav,hey jarvis,positive
+17.wav,hey jarvis,positive
+18.wav,hey jarvis,positive
+19.wav,hey jarvis,positive
+20.wav,hey jarvis,positive
+21.wav,hey jarvis,positive
+22.wav,hey jarvis,positive
+23.wav,hey jarvis,positive
+24.wav,hey jarvis,positive
+25.wav,hey jarvis,positive
+26.wav,hey jarvis,positive
+27.wav,hey jarvis,positive
+n1.wav,empty voice,negative
+n2.wav,empty voice,negative
+n3.wav,empty voice,negative
+n4.wav,empty voice,negative
+n5.wav,empty voice,negative
+n6.wav,hello,negative
+n7.wav,goodmorning,negative
+n8.wav,tell me a fun fact,negative
+n9.wav,what is pending today,negative
+n10.wav,what is the weather,negative
+n11.wav,how to build a model form scratch,negative
+n12.wav,give me the solution for my question,negative
+n13.wav,what is the time,negative
+n14.wav,i am vignesh,negative
+n15.wav,I like your work,negative
+n16.wav,remind me to drink water on 25 th july 2025,negative
+n17.wav,exit,negative
+n18.wav,thank you buddy,negative
+n19.wav,give me a more clear answer,negative
+n20.wav,how to build a llm model form scratch,negative
+n21.wav,so sunny today,negative
+n22.wav,I am vignesh I am a third year student,negative
+n24.wav,my favourite coor is red,negative
+n25.wav,remember I like to go swimming,negative
+n26.wav,"life isn’t always easy. We all face challenges, setbacks, and moments when giving up feels like the only option. But it's in those very moments that our true strength is tested. You see, diamonds are made under pressure. Trees grow stronger in the wind. And we, as people, grow the most when we’re pushed beyond our comfort zone. Hard times don’t last — but the strength you gain from them does. So when the road gets tough, don’t quit. Pause if you must, breathe, reflect, and then keep going. Because every step forward, no matter how small, brings you closer to a stronger, wiser version of yourself. Thank you.",negative
+n27.wav,"Today, I stand before you not as a student, not as a speaker… but as a professional procrastinator. Yes, while others were doing their work on time, I was mastering the art of last-minute panic typing at 2 a.m. with one eye open and coffee as my co-pilot. And guess what? I still got it done. Mostly. They say procrastination is bad. I say it's time management with flair. Why work 5 days on an assignment when you can feel alive for 5 hours the night before the deadline?",negative
+n28.wav,you are the best ai I ever had,negative
+n29.wav,goodnight,negative
